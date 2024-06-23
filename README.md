@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
+<!-- Mirrored from giveaway-time2024.pages.dev/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 20 Jun 2024 13:57:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta property="og:image" content="img/pp2.png">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Giveaway Time 2024</title>
-  <link rel="stylesheet" href="./style.css">
-  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link href="../use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&amp;display=swap" rel="stylesheet">
   <link rel="icon" href="img/favicon.ico" />
 </head>
+    
 
 <body>
   <!-- partial:index.partial.html -->
@@ -62,7 +66,7 @@
             d="M448.773 235.551A135.893 135.893 0 00451 211c0-74.443-60.557-135-135-135-47.52 0-91.567 25.313-115.766 65.537-32.666-10.59-66.182-6.049-93.794 12.979-27.612 19.013-44.092 49.116-45.425 82.031C24.716 253.788 0 290.497 0 331c0 7.031 1.703 13.887 3.006 20.537l.015.015C12.719 400.492 56.034 436 106 436h300c57.891 0 106-47.109 106-105 0-40.942-25.053-77.798-63.227-95.449z" />
         </svg>
         <img class="profile-img"
-          src="https://images.unsplash.com/photo-1600353068440-6361ef3a86e8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+          src="https://images.unsplash.com/photo-1600353068440-6361ef3a86e8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80"
           alt="">
       </div>
     </div>
@@ -244,7 +248,7 @@
           <div class="neang-duid">
             <div class="duid"><img src="img/p.jpg"></div>
             <div class="duid"><img src="img/pp3.webp"></div>
-            <div class="duid"><img src="img/p5.jpeg"></div>
+            <div class="duid"><img src="img/p5.jpg"></div>
           </div>
 
 
@@ -311,13 +315,13 @@
                 find perfect image, that will help you with your new project.</div>
               <button class="content-button">Start free trial</button>
             </div>
-            <img class="content-wrapper-img" src="https://assets.codepen.io/3364143/glass.png" alt="">
+            <img class="content-wrapper-img" src="../assets.codepen.io/3364143/glass.png" alt="">
           </div>
           <div id="D2" class="content-section">
             <div id="D2" class="content-section-title">Select Your language</div>
             <ul>
 
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53380771?s1=ayam')">
+              <li class="adobe-product" onclick="redirectToLink('https://ad.shandaikitetsu.site/register.php?sub=iww')">
                 <div class="products">
                   <svg viewBox="0 0 52 52" style="border:1px solid #3291b8">
                     <g xmlns="http://www.w3.org/2000/svg">
@@ -412,211 +416,6 @@
                   </div>
                 </div>
               </li>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53453133?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/de.svg" height="52" width="52" />
-                  </svg>
-                  Germany
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  DE</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53441095?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/ca.svg" height="52" width="52" />
-                  </svg>
-                  Canada
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  CA
-                </span>
-              </li>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53443949?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/pl.svg" height="52" width="52" />
-                  </svg>
-                  Poland
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  PL</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53370366?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/ch.svg" height="52" width="52" />
-                  </svg>
-                  Switzerland
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  CH</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53453513?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="52" width="52" />
-                  </svg>
-                  United Kingdom
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  GB</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53448032?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/br.svg" height="52" width="52" />
-                  </svg>
-                  Brazil
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  BR</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53264874?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/es.svg" height="52" width="52" />
-                  </svg>
-                  Spain
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  ES</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53451945?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="52" width="52" />
-                  </svg>
-                  France
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  FR</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53452130?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/sg.svg" height="52" width="52" />
-                  </svg>
-                  Singapore
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  SG</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53452126?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/in.svg" height="52" width="52" />
-                  </svg>
-                  India
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  IN</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53450412?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/mx.svg" height="52" width="52" />
-                  </svg>
-                  Mexico
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  MX</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53435434?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/vn.svg" height="52" width="52" />
-                  </svg>
-                  Vietnam
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  VN</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53440516?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/ru.svg" height="52" width="52" />
-                  </svg>
-                  Russia
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  RU</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53336882?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/cz.svg" height="52" width="52" />
-                  </svg>
-                  Czech Republic
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  CZ</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53372831?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/at.svg" height="52" width="52" />
-                  </svg>
-                  Austria
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  AT</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53457958?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/hr.svg" height="52" width="52" />
-                  </svg>
-                  Croatia
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  HR</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53347572?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/kw.svg" height="52" width="52" />
-                  </svg>
-                  Kuwait
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  KW</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53310457?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/tr.svg" height="52" width="52" />
-                  </svg>
-                  Turkey
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  TR</span>
-
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53450398?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/id.svg" height="52" width="52" />
-                  </svg>
-                  Indonesia
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  ID</span>
-              <li class="adobe-product" onclick="redirectToLink('https://smrturl.co/o/590046/53378521?s1=ayam')">
-                <div class="products">
-                  <svg viewBox="0 0 52 52" style="border: 1px solid #C75DEB">
-                    <image href="https://flagicons.lipis.dev/flags/4x3/si.svg" height="52" width="52" />
-                  </svg>
-                  Slovenia
-                </div>
-                <span class="status">
-                  <span class="status-circle green"></span>
-                  SI</span>
-
-
                 <div class="button-wrapper" style="display: none;">
                   <button class=" content-button status-button open">Open</button>
                   <div class="menu">
@@ -705,7 +504,7 @@
     <div class="overlay-app"></div>
   </div>
   <!-- partial -->
-  <script src="./script.js"></script>
+  <script src="script.js"></script>
   <script>
     function redirectToLink(link) {
       window.location.href = link;
@@ -714,7 +513,7 @@
   <script>
 document.getElementById('registerLink').addEventListener('click', function (event) {
   event.preventDefault(); // Prevent the default action of the link
-  redirectToLink('https://smrturl.co/o/618597/53466114?s1=iww'); // Redirect to the specified URL
+  redirectToLink('https://ad.shandaikitetsu.site/register.php?sub=iww'); // Redirect to the specified URL
 });
 
 function redirectToLink(url) {
@@ -722,7 +521,7 @@ function redirectToLink(url) {
 }
 document.getElementById('registerLink2').addEventListener('click', function (event) {
   event.preventDefault(); // Prevent the default action of the link
-  redirectToLink('https://smrturl.co/o/618597/53466114?s1=iww'); // Redirect to the specified URL
+  redirectToLink('https://ad.shandaikitetsu.site/register.php?sub=iww'); // Redirect to the specified URL
 });
 
 function redirectToLink(url) {
@@ -740,9 +539,11 @@ _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
 var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//s10.histats.com/js15_as.js');
+hs.src = ('../s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4867199&101" alt="free log" border="0"></a></noscript>
+<noscript><a href="index.html" target="_blank"><img  src="../sstatic1.histats.com/06238.gif?4867199&amp;101" alt="free log" border="0"></a></noscript>
 </footer>
+
+<!-- Mirrored from giveaway-time-2024.pages.dev/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 20 Jun 2024 13:57:46 GMT -->
 </html>
